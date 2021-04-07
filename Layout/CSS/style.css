@@ -33,7 +33,10 @@ body{
   
 }
 
+.img-responsive {  width: 100%; }
 
+.navbar-nav.mx-auto { display : table; }
+.navbar-nav { float : none; }
 
 .navbar-light .navbar-nav .nav-link{
     color: #fff;
