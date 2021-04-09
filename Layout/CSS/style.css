@@ -79,7 +79,7 @@ position: fixed !important;
     color:#3B9076;
     font-family: Georgia, serif;
     text-shadow: #000000 -1px -1px, #000000 -1px 1px, #000000 -1px -1px, #000000 -1px -1px;
-    margin-top: -150px;
+    margin-top: -220px;
 
 
 }
@@ -104,7 +104,7 @@ position: fixed !important;
     word-spacing: 5px;
     letter-spacing: 2px;
     text-shadow: #000000 -1px -1px, #000000 -1px 1px, #000000 -1px -1px, #000000 -1px -1px;
-    margin-top: 100px;
+    margin-top: 50px;
 }
 
 .heading-content h6{
@@ -116,7 +116,7 @@ position: fixed !important;
     word-spacing: 5px;
     letter-spacing: 2px;
     text-shadow: #000000 -1px -1px, #000000 -1px 1px, #000000 -1px -1px, #000000 -1px -1px;
-    margin-top: 100px;
+    margin-top: 50px;
 }
 /*---------A propos début----------*/
 
