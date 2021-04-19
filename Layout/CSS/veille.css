@@ -1,0 +1,32 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 16 avr. 2021, 15:16:08
+    Author     : Laurane
+*/
+.background{
+    max-width: 100%;
+    height: auto;
+}
+.test
+{
+     font-family: Georgia, serif;
+    font-size: 2em;
+    font-weight:bolder;
+    color: #3B9076;
+   
+    text-shadow: #000000 -1px -1px, #000000 -1px 1px, #000000 -1px -1px, #000000 -1px -1px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.msp
+{
+    margin-left: 30px;
+    margin-right: 30px;
+    font-family: Georgia, serif;
+    font-size: 20px
+}

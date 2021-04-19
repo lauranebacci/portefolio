@@ -590,3 +590,56 @@ position: fixed !important;
 @media screen and (max-width: 990px){
     .pricingTable{ margin-bottom: 25px; }
 }
+
+.go
+{
+    background-color: #1ebba3;
+}
+
+.godeux
+{
+    background-color: #000000
+}
+
+.titreveille{
+     font-family: Georgia, serif;
+    font-size: 2em;
+    font-weight:bolder;
+    color: #3B9076;
+   
+    text-shadow: #000000 -1px -1px, #000000 -1px 1px, #000000 -1px -1px, #000000 -1px -1px;
+    margin-top: 30px;
+}
+
+.def{
+    font-size: 20px;
+     font-family: Georgia, serif;
+}
+.titrebis{
+     font-family: Georgia, serif;
+    font-size: 2em;
+    font-weight:bolder;
+    color: #3B9076;
+   
+    text-shadow: #000000 -1px -1px, #000000 -1px 1px, #000000 -1px -1px, #000000 -1px -1px;
+    margin-top: 30px;
+}
+
+.autredef{
+    font-size: 20px;
+     font-family: Georgia, serif;
+}
+.autretitre
+{
+     font-family: Georgia, serif;
+    font-size: 2em;
+    font-weight:bolder;
+    color: #3B9076;
+   
+    text-shadow: #000000 -1px -1px, #000000 -1px 1px, #000000 -1px -1px, #000000 -1px -1px;
+    margin-top: 30px;
+}
+
+.github{
+    
+}
